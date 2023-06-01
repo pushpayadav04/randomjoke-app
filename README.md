@@ -10,7 +10,11 @@ By creating this random joke app, developers can gain hands-on experience in bui
 STEPS TO GET THE OUTPUT:-
 
 step1:open the code in visual studio.
+
 step2:open the project file in vscode. 
+
 step3:run terminal type -> npm start.
+
 step4:choose a web browser to open the project.
+
 step5:when the projects opens on the browser random joke appears, click on the "get a new joke" button to get a new joke.
