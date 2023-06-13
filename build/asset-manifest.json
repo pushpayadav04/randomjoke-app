@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/randomjoke-app/static/css/main.8c7ef2e1.css",
+    "main.js": "/randomjoke-app/static/js/main.9cd09455.js",
+    "static/js/787.e16af88b.chunk.js": "/randomjoke-app/static/js/787.e16af88b.chunk.js",
+    "index.html": "/randomjoke-app/index.html",
+    "main.8c7ef2e1.css.map": "/randomjoke-app/static/css/main.8c7ef2e1.css.map",
+    "main.9cd09455.js.map": "/randomjoke-app/static/js/main.9cd09455.js.map",
+    "787.e16af88b.chunk.js.map": "/randomjoke-app/static/js/787.e16af88b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c7ef2e1.css",
+    "static/js/main.9cd09455.js"
+  ]
+}
